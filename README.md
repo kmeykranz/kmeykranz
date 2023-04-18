@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kevinwu</h1>
 <h3 align="center">A passionate developer from China</h3>
 
-
-
 Welcome to my GitHub profile!
 
 ## About Me
 
-- 📚 I'm currently a grade 10 student from China
-- 🌱 I'm taking A-Level courses to prepare for studying abroad
+- 📚 I'm currently a **grade 10** student from China
+- 🌱 I'm taking **A-Level courses** to prepare for studying abroad
 - 💻 I love programming, and I'm passionate to develop applications
 - 👨🏻‍🤝‍👨🏻Because I enjoy the feeling of contributing the society
 
@@ -16,8 +14,8 @@ Welcome to my GitHub profile!
 
 Here are some of my skills:
 
-- Programming languages: C/C++, HTML
-- Tools and frameworks: Qt, SDL2
+- Programming languages: **C/C++, HTML**
+- Tools and frameworks: **Qt, SDL2**
 
 ## Open Source Projects
 
