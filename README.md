@@ -30,7 +30,7 @@ Here are some open source projects I've contributed to on GitHub:
 
 You can reach me via:
 
-- Email: kevin200606@163.com
+- Email: kevinwu06@163.com
 - Blog: https://www.kevinwu.cc/
 
 Thank you for visiting my profile!
