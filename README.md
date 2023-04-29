@@ -19,11 +19,11 @@ Here are some of my skills:
 
 ## Open Source Projects
 
-Here are some open source projects I've contributed to on GitHub:
+Here are some open source projects I've contributed to on GitHub:<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 - [DuckChat](https://github.com/kevinwu06/DuckChat) - A simple chat app based on TCP network made with C++ and Qt 6.
 - [FighterDuck](https://github.com/kevinwu06/FighterDuck) - A 2D game made with C++ and Qt 6.
+
 
 ## Contact Me
 
