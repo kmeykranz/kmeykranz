@@ -8,7 +8,6 @@ Welcome to my GitHub profile!
 - 📚 I'm currently a **grade 10** student from China
 - 🌱 I'm taking **A-Level courses** to prepare for studying abroad
 - 💻 I love programming, and I'm passionate to develop applications
-- 👨🏻‍🤝‍👨🏻Because I enjoy the feeling of contributing the society
 
 ## Skills
 
