@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevinwu</h1>
-<h3 align="center">A passionate developer from China</h3>
+<h3 align="center">A high school student from China</h3>
 
 Welcome to my GitHub profile!
 
