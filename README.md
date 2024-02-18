@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kevinwu</h1>
+<h1 align="center">Hi 👋, I'm kevinwu06</h1>
 <h3 align="center">A high school student from China</h3>
 
 Welcome to my GitHub profile!
-
-## About Me
-
-- 📚 I'm currently a **grade 10** student from China
-- 🌱 I'm taking **A-Level courses** to prepare for studying abroad
-- 💻 I love programming, and I'm passionate to develop applications
 
 ## Skills
 
