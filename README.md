@@ -7,8 +7,8 @@ Welcome to my GitHub profile!
 
 Here are some of my skills:
 
-- Programming languages: **C/C++, HTML**
-- Tools and frameworks: **Qt, SDL2**
+- Programming languages: **C/C++, HTML, CSS, JS, GDScript**
+- Tools and frameworks: **Qt, SDL2, Godot**
 
 ## Open Source Projects
 
