@@ -1,28 +1,43 @@
-<h1 align="center">Hi 👋, I'm kevinwu06</h1>
-<h3 align="center">A high school student from China</h3>
+<div align="center">
 
-Welcome to my GitHub profile!
+# 🙋 Hi, I'm Fiveth
+<!-- 个人资料徽标 -->
 
-## Skills
+  <a href="https://blog.fiveth.cc/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
+  <a href="https://space.bilibili.com/358065206"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 
-Here are some of my skills:
+Hi, I'm a undergraduate CS student.<br>Nice to meet you here in the sea of internet.
 
-- Programming languages: **C/C++, HTML, CSS, JS, GDScript**
-- Tools and frameworks: **Qt, SDL2, Godot**
+💪 **My Current Skills**:
+&emsp;&emsp;
 
-## Open Source Projects
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 
-Here are some open source projects I've contributed to on GitHub:<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+<div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
-- [DuckChat](https://github.com/kevinwu06/DuckChat) - A simple chat app based on TCP network made with C++ and Qt 6.
-- [FighterDuck](https://github.com/kevinwu06/FighterDuck) - A 2D game made with C++ and Qt 6.
+# 🚀 Action
+
+<!-- GitHub数据统计 -->
+
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kevinwu06&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinwu06&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
 
 
-## Contact Me
+# 🤝 Social
 
-You can reach me via:
+<!-- BiliBili和CSDN数据 -->
 
-- Email: kevinwu06@163.com
-- Blog: https://www.kevinwu.cc/
+<div align="center">
+  <a href="https://space.bilibili.com/358065206"><img src="https://stats.justsong.cn/api/bilibili/?id=358065206"/></a>
+  <a href="https://github.com/kevinwu06"><img src="https://stats.justsong.cn/api/github?username=kevinwu06"/></a>
+</div>
 
-Thank you for visiting my profile!
+</div>
