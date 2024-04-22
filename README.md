@@ -9,8 +9,8 @@
 Hi, I'm a undergraduate CS student.<br>Nice to meet you here in the sea of internet.
 
 💪 **My Current Skills**:
-&emsp;&emsp;
 
+&emsp;&emsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
@@ -26,8 +26,8 @@ Hi, I'm a undergraduate CS student.<br>Nice to meet you here in the sea of inter
 <!-- GitHub数据统计 -->
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kevinwu06&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinwu06&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=kevinwu06&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinwu06&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 
