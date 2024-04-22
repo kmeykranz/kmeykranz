@@ -30,14 +30,4 @@ Hi, I'm a undergraduate CS student.<br>Nice to meet you here in the sea of inter
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinwu06&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-
-# 🤝 Social
-
-<!-- BiliBili和CSDN数据 -->
-
-<div align="center">
-  <a href="https://space.bilibili.com/358065206"><img src="https://stats.justsong.cn/api/bilibili/?id=358065206"/></a>
-  <a href="https://github.com/kevinwu06"><img src="https://stats.justsong.cn/api/github?username=kevinwu06"/></a>
-</div>
-
 </div>
