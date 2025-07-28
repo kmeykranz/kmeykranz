@@ -13,11 +13,14 @@ Hi, I'm a student who enjoys programming.<br>Nice to meet you in the vast ocean 
 &emsp;&emsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-red?style=flat-square&logo=Rust)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-00599C?style=flat-square&logo=godot)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
